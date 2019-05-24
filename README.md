@@ -6,7 +6,7 @@ The command-line tool for calculating throughput time and throughput of P2P proc
 
 The initial distribution includes:
 * BPIC2019_Task2.jar - Java console application
-* logs/ - the logs that were used (original BPIC 2019 log partitioned accordingly the data flows)
+* src/ - source code of the application
 
 ## Usage
 
